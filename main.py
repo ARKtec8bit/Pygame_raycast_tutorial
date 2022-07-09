@@ -1,4 +1,4 @@
-from re import S
+
 import pygame as pg
 import sys
 import math
